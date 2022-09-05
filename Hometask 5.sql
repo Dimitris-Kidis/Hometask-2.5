@@ -8,7 +8,7 @@
 -- 3. Reproduce: 
 --        - Dirty Read ✅
 --        - Non-repeatable Read ✅
---        - Phantom Read ✅0
+--        - Phantom Read ✅
 
 
 -- 1 --
